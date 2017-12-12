@@ -2,8 +2,8 @@
 path: "/busted-and-blue"
 date: "2017-12-12T03:33:49+00:00"
 title: "Busted and Blue"
-excerpt: "Se me ocurre que vas a llegar distinta"
-tags: ['poema', 'mario benedetti', 'poeta latinoamericano']
+excerpt: "And I can't get back without you"
+tags: ['gorillaz', 'damon albarn', 'busted', 'blue']
 ---
 #### a song by Gorillaz | Damon Albarn
 
