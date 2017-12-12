@@ -2,22 +2,23 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const IndexPage = ({data}) => {
-  console.log('here is da data', data);
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <div>
-      {posts.map(({node: post}) => {
+      {posts.map(({node: post}, index) => {
         const { frontmatter } = post
 
         return (
-          <div>
+          <div key={index}>
             <h2>
               <Link to={frontmatter.path}>
                 {frontmatter.title}
               </Link>
             </h2>
-            {frontmatter.date}
+            {frontmatter.date} <br/>
             {frontmatter.excerpt}
+            <br/>
+            <br/>
           </div>
         )
       })}

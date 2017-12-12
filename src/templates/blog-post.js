@@ -2,10 +2,12 @@ import React from 'react';
 import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 
-const Template = ({data, location}) => {
+const Template = ({data, location, pathContext}) => {
+  console.log(pathContext);
   const {markdownRemark: post} = data;
   const {frontmatter, html} = post;
   const {title, date} = frontmatter;
+  const {prev, next} = pathContext;
 
   return (
     <div>
@@ -16,6 +18,25 @@ const Template = ({data, location}) => {
         <span>{date}</span>
 
         <div dangerouslySetInnerHTML={{__html: html}} />
+
+        <p>
+          {prev && (
+            <div style={{float: 'left'}}>
+              <Link to={prev.frontmatter.path}>
+                Previous: {prev.frontmatter.title}
+              </Link>
+            </div>
+          )}
+
+          {next && (
+            <div style={{float: 'right'}}>
+              <Link to={next.frontmatter.path}>
+                Next: {next.frontmatter.title}
+              </Link>
+            </div>
+          )}
+          <br/>
+        </p>
       </div>
     </div>
   )
@@ -27,7 +48,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM, DD, YYYY")
+        date(formatString: "MMMM DD, YYYY")
         path
         tags
         excerpt
