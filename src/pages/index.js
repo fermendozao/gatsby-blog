@@ -19,6 +19,17 @@ const IndexPage = ({data}) => {
             {frontmatter.excerpt}
             <br/>
             <br/>
+            <ul>
+              {frontmatter.tags.map(tag => {
+                return (
+                  <li>
+                    <Link to={`/tags/${tag}`}>
+                      {tag}
+                    </Link>
+                  </li>
+                )
+              })}
+            </ul>
           </div>
         )
       })}
