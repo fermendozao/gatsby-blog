@@ -5,8 +5,8 @@
       "path---tags-poema-ffea4538fe66d8afb00a.js.map"
     ],
     "path---busted-and-blue": [
-      "path---busted-and-blue-0b63848fa247ff4cd283.js",
-      "path---busted-and-blue-0b63848fa247ff4cd283.js.map"
+      "path---busted-and-blue-72141f80fccd2f9568cd.js",
+      "path---busted-and-blue-72141f80fccd2f9568cd.js.map"
     ],
     "path---tags-edgar-allan-poe": [
       "path---tags-edgar-allan-poe-8f76a1462233867dce77.js",
@@ -33,8 +33,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---bienvenida-mario-benedetti": [
-      "path---bienvenida-mario-benedetti-31d129a06b2b3d26c752.js",
-      "path---bienvenida-mario-benedetti-31d129a06b2b3d26c752.js.map"
+      "path---bienvenida-mario-benedetti-f920f71ba60c770b4aa9.js",
+      "path---bienvenida-mario-benedetti-f920f71ba60c770b4aa9.js.map"
     ],
     "path---tags-branch": [
       "path---tags-branch-09c1a76cb69de0fe9913.js",
@@ -69,8 +69,8 @@
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-d938b494974af0c8afeb.js",
-      "path---index-d938b494974af0c8afeb.js.map"
+      "path---index-45d85ff65edcbb40b2ae.js",
+      "path---index-45d85ff65edcbb40b2ae.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -105,14 +105,14 @@
       "path---tags-poem-9a3624d457b581756e1d.js.map"
     ],
     "app": [
-      "app-6b973ebc88622367337b.js",
+      "app-7e3c004c295275564621.js",
       "build-js-styles.css",
-      "app-6b973ebc88622367337b.js.map",
+      "app-7e3c004c295275564621.js.map",
       "build-js-styles.css.map"
     ],
     "path---rename-local-and-remote-branch-git": [
-      "path---rename-local-and-remote-branch-git-cc89ab161528c55f209b.js",
-      "path---rename-local-and-remote-branch-git-cc89ab161528c55f209b.js.map"
+      "path---rename-local-and-remote-branch-git-f8ccb9c656fc456111e0.js",
+      "path---rename-local-and-remote-branch-git-f8ccb9c656fc456111e0.js.map"
     ],
     "path---tags-mario-benedetti": [
       "path---tags-mario-benedetti-8bb853ed36c8423e00eb.js",
@@ -131,8 +131,8 @@
       "path---tags-gorillaz-d8d35021968bf21525e2.js.map"
     ],
     "path---the-raven": [
-      "path---the-raven-7d3b4e2beae83f287122.js",
-      "path---the-raven-7d3b4e2beae83f287122.js.map"
+      "path---the-raven-493168a1baf76e508bda.js",
+      "path---the-raven-493168a1baf76e508bda.js.map"
     ]
   }
 }
