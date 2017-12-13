@@ -1,0 +1,138 @@
+{
+  "assetsByChunkName": {
+    "path---tags-poema": [
+      "path---tags-poema-ffea4538fe66d8afb00a.js",
+      "path---tags-poema-ffea4538fe66d8afb00a.js.map"
+    ],
+    "path---busted-and-blue": [
+      "path---busted-and-blue-0b63848fa247ff4cd283.js",
+      "path---busted-and-blue-0b63848fa247ff4cd283.js.map"
+    ],
+    "path---tags-edgar-allan-poe": [
+      "path---tags-edgar-allan-poe-8f76a1462233867dce77.js",
+      "path---tags-edgar-allan-poe-8f76a1462233867dce77.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-bb45a898cb25ee84a3d1.js",
+      "component---src-pages-index-js-bb45a898cb25ee84a3d1.js.map"
+    ],
+    "path---tags-poeta-latinoamericano": [
+      "path---tags-poeta-latinoamericano-1b3706c9a9f9b17c0f52.js",
+      "path---tags-poeta-latinoamericano-1b3706c9a9f9b17c0f52.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-9f33bf6d5da76dc9fc95.js",
+      "component---src-templates-tags-js-9f33bf6d5da76dc9fc95.js.map"
+    ],
+    "path---tags": [
+      "path---tags-be5ee99ed74f4fcd46e7.js",
+      "path---tags-be5ee99ed74f4fcd46e7.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---bienvenida-mario-benedetti": [
+      "path---bienvenida-mario-benedetti-31d129a06b2b3d26c752.js",
+      "path---bienvenida-mario-benedetti-31d129a06b2b3d26c752.js.map"
+    ],
+    "path---tags-branch": [
+      "path---tags-branch-09c1a76cb69de0fe9913.js",
+      "path---tags-branch-09c1a76cb69de0fe9913.js.map"
+    ],
+    "path---tags-damon-albarn": [
+      "path---tags-damon-albarn-0d697284aca21d73e61a.js",
+      "path---tags-damon-albarn-0d697284aca21d73e61a.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-76fa1fc5b2bcde75a6f7.js",
+      "component---src-templates-blog-post-js-76fa1fc5b2bcde75a6f7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-38be27850896c6cfed9f.js",
+      "component---src-layouts-index-js-38be27850896c6cfed9f.js.map"
+    ],
+    "path---tags-busted": [
+      "path---tags-busted-7f6d2c6a2884410365c5.js",
+      "path---tags-busted-7f6d2c6a2884410365c5.js.map"
+    ],
+    "path---tags-blue": [
+      "path---tags-blue-44cf1662aef6469fec9f.js",
+      "path---tags-blue-44cf1662aef6469fec9f.js.map"
+    ],
+    "path---tags-branch-names": [
+      "path---tags-branch-names-cb95e0bb5c68327c7c33.js",
+      "path---tags-branch-names-cb95e0bb5c68327c7c33.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-d938b494974af0c8afeb.js",
+      "path---index-d938b494974af0c8afeb.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-8b186acffa48646bd616.js",
+      "commons-8b186acffa48646bd616.js.map"
+    ],
+    "path---tags-poe": [
+      "path---tags-poe-fede561661c689156519.js",
+      "path---tags-poe-fede561661c689156519.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-all-tags-js": [
+      "component---src-templates-all-tags-js-bd4d15a92fdbe44c18fa.js",
+      "component---src-templates-all-tags-js-bd4d15a92fdbe44c18fa.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
+    "path---tags-git": [
+      "path---tags-git-db879c6cafc70a804ce5.js",
+      "path---tags-git-db879c6cafc70a804ce5.js.map"
+    ],
+    "path---tags-poem": [
+      "path---tags-poem-9a3624d457b581756e1d.js",
+      "path---tags-poem-9a3624d457b581756e1d.js.map"
+    ],
+    "app": [
+      "app-6b973ebc88622367337b.js",
+      "build-js-styles.css",
+      "app-6b973ebc88622367337b.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---rename-local-and-remote-branch-git": [
+      "path---rename-local-and-remote-branch-git-cc89ab161528c55f209b.js",
+      "path---rename-local-and-remote-branch-git-cc89ab161528c55f209b.js.map"
+    ],
+    "path---tags-mario-benedetti": [
+      "path---tags-mario-benedetti-8bb853ed36c8423e00eb.js",
+      "path---tags-mario-benedetti-8bb853ed36c8423e00eb.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-narrative": [
+      "path---tags-narrative-41c6043a560ef3e0d506.js",
+      "path---tags-narrative-41c6043a560ef3e0d506.js.map"
+    ],
+    "path---tags-gorillaz": [
+      "path---tags-gorillaz-d8d35021968bf21525e2.js",
+      "path---tags-gorillaz-d8d35021968bf21525e2.js.map"
+    ],
+    "path---the-raven": [
+      "path---the-raven-7d3b4e2beae83f287122.js",
+      "path---the-raven-7d3b4e2beae83f287122.js.map"
+    ]
+  }
+}
